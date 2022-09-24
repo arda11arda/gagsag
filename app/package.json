@@ -1,0 +1,22 @@
+{
+  "name": "music-bot",
+  "version": "9.9.9",
+  "description": "Mercy Code",
+  "main": "pasador.js",
+  "scripts": {
+    "start": "node pasador.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord-player": "^3.3.2",
+    "@discordjs/opus": "^0.3.3"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "striga"
+  ]
+}
